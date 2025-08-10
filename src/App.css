@@ -1,4 +1,43 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
+.electric-install-accordion {
+  max-width: 800px;
+  margin: 50px auto;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.electric-install-accordion-title {
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 30px;
+  color: #222;
+}
+
+.electric-install-accordion-item {
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  background: #f9f9f9;
+}
+
+.electric-install-accordion-header {
+  background: #efefef;
+  padding: 15px 20px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.electric-install-accordion-header:hover {
+  background: #e2e2e2;
+}
+
+.electric-install-accordion-body {
+  padding: 20px;
+  background-color: white;
+  border-top: 1px solid #ccc;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
