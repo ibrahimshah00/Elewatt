@@ -7,19 +7,19 @@ const projects = [
     title: "Installation de panneaux électrique",
     description:
       "Installation du boitier électrique central et configuration.",
-    image: "src/assets/wire.webp",
+    image: "wire.webp",
   },
   {
     title: "Installation cablages électrique",
     description:
       "Nous effectuons l'installations de tout le cablage électrique de l'installation.",
-    image: "src/assets/inst.webp",
+    image: "inst.webp",
   },
   {
     title: "Installation éclairage électrique",
     description:
       "Nous installons tout type d'éclairage électrique en intérieur et en extérieur.",
-    image: "src/assets/bulb.webp",
+    image: "bulb.webp",
   },
 ];
 
