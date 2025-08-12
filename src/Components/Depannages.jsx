@@ -1,6 +1,6 @@
 import React from "react";
 import ElectricPageTemplate from "./ElectricPageTemplate";
-import depannageImage from "pic3.webp";
+import depannageImage from "../assets/pic3.webp";
 
 const depannageFaqData = [
   {

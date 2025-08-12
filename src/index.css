@@ -1558,12 +1558,12 @@
 }
 
 .electric-install-accordion-header:hover {
-  background: #f60000;
+  background: #cccccc;
 }
 
 .electric-install-accordion-body {
   padding: 20px;
-  background-color: rgb(255, 0, 0);
+  background-color: rgb(243, 243, 243);
   border-top: 1px solid #ccc;
   font-size: 0.95rem;
   line-height: 1.6;
