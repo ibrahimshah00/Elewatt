@@ -11,28 +11,28 @@ export default function ServicesSection() {
 
       <div className="services-grid">
         <div className="service-block">
-          <img src="./src/assets/pic4.webp" alt="Dépannage électrique" />
+          <img src="pic4.webp" alt="Dépannage électrique" />
           <h4>Dépannage électrique</h4>
           <p>
             Besoin d'une intervention urgente suite à une panne électrique ? Nous intervenons rapidement ! Toujours un technicien près de chez vous.
           </p>
         </div>
         <div className="service-block">
-          <img src="./src/assets/pic5.webp" alt="Installation électrique" />
+          <img src="pic5.webp" alt="Installation électrique" />
           <h4>Installation électrique</h4>
           <p>
             Nous réalisons des installations complètes selon vos besoins et votre budget. Nous vous fournissons un devis complet et précis pour un coût mesuré.
           </p>
         </div>
         <div className="service-block">
-          <img src="./src/assets/pic3.webp" alt="Mise en conformité électrique" />
+          <img src="pic3.webp" alt="Mise en conformité électrique" />
           <h4>Mise en conformité électrique</h4>
           <p>
             Contrôle et diagnostic de votre circuit électrique pour la mise en conformité. Obtention d’un certificat de conformité d’installation électrique.
           </p>
         </div>
         <div className="service-block">
-          <img src="./src/assets/pic2.webp" alt="Installation éclairage" />
+          <img src="pic2.webp" alt="Installation éclairage" />
           <h4>Installation éclairage</h4>
           <p>
             Illuminer votre intérieur avec un éclairage adapté. Installation d’éclairages sécurisée de type standard ou design. Donnez de la lumière à votre espace.
