@@ -7,14 +7,14 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-top">
         <div className="footer-logo">
-          <h3>Elewatt</h3>
+          <h3>Electricien Rapide</h3>
           <p>Solutions électriques professionnelles et fiables.</p>
         </div>
 
         <div className="footer-contact">
           <h4>Contact</h4>
           <p><FaPhone /> <a href="tel:+32472611952">0472 61 19 52</a></p>
-          <p><FaEnvelope /> <a href="mailto:info@elewatt.be">info@elewatt.be</a></p>
+          <p><FaEnvelope /> <a href="mailto:info@electricienrapide.be">info@electricienrapide.be</a></p>
         </div>
 
         <div className="footer-social">
@@ -30,7 +30,7 @@ const Footer = () => {
 
       <div className="footer-bottom">
         <p>
-          © 2018-2024 - Elewatt - All rights reserved |
+          © 2018-2024 - Electricien Rapide - All rights reserved |
           VAT BE0700.626.941 |
           <a href="#"> Legal notices</a> |
           <a href="#"> Cookies policy</a> |

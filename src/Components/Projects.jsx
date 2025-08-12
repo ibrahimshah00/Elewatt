@@ -17,7 +17,7 @@ export default function EmergencyCallout() {
       <div className="callout-content">
         <div className="callout-left">
           <h3>
-            Chez Elewatt, nous sommes fiers de fournir des solutions
+            Chez Electricien Rapide, nous sommes fiers de fournir des solutions
             électriques de qualité supérieure à nos clients.
           </h3>
         </div>
@@ -53,7 +53,7 @@ export default function EmergencyCallout() {
           nécessaires avant qu'ils ne deviennent des problèmes majeurs.
         </p>
         <p>
-          Chez Elewatt, nous croyons que la satisfaction de nos clients est primordiale. Nous sommes
+          Chez Electricien Rapide, nous croyons que la satisfaction de nos clients est primordiale. Nous sommes
           engagés à fournir un service professionnel, rapide et efficace à tous nos clients, et nous nous
           efforçons de dépasser leurs attentes à chaque fois. Contactez-nous aujourd'hui pour découvrir
           comment nous pouvons répondre à vos besoins électriques.

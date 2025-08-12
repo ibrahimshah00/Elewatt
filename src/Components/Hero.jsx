@@ -9,7 +9,7 @@ function Hero() {
           Energie oplossingen voor de toekomst
         </h1>
         <p>
-          Elewatt biedt duurzame energieoplossingen die perfect aansluiten bij uw behoeften en het milieu.
+          Electricien Rapide biedt duurzame energieoplossingen die perfect aansluiten bij uw behoeften en het milieu.
         </p>
         <a href="/contact" className="hero-button">
           Contacteer ons
